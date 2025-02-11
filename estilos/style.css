@@ -32,15 +32,16 @@ section#telefone{
 
     height: 627px;
     width: 311px;
-    background: url(../imagens/frame-iphone.png) no-repeat;
+    background: url(../imagens/tela-iphone.png) no-repeat;
 }
 
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    width: 267px;
-    height: 471px;
+    top: 15px;
+    left: 65px;
+    width: 232px;
+    height: 497px;
+    border-radius: 28px;
 }
 
 section#redes-sociais{
